@@ -108,7 +108,7 @@ const node2Training = props => ({
 const myTrainingSet = trainingData.data.offers.edges.map(node2Training);
 
 const myNetwork =
-  Architect.Perceptron(10, 10, 10, 10, 10, 10, 140);
+  Architect.Perceptron(10, 280, 280, 280, 280, 280, 140);
 
 // myNetwork.train(myTrainingSet, {
 //   log: 10,
