@@ -1,0 +1,3999 @@
+{
+  "data": {
+    "offers": {
+      "edges": [
+        {
+          "node": {
+            "id": "b2ZyOlMxRjczS3E5ZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-08T08:00:00.000Z",
+                "end": "2017-03-08T08:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.865085,
+                  "lon": 2.328459299999963
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-03-10T10:30:00.000Z",
+                  "end": "2017-03-10T10:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 13700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhrOWtqYzlxZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-10T05:30:00.000Z",
+                "end": "2017-03-10T05:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.92693970000001,
+                  "lon": 2.2540725999999722
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.5
+                },
+                "dateRange": {
+                  "start": "2017-03-24T08:00:00.000Z",
+                  "end": "2017-03-24T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.9041176,
+                    "lon": 2.3029094999999415
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5NVF1Ym45bA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-08T05:30:00.000Z",
+                "end": "2017-03-08T05:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-03-10T08:00:00.000Z",
+                  "end": "2017-03-10T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 61000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlMxOTYzUjBxZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-10T05:30:00.000Z",
+                "end": "2017-03-10T05:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-18T05:00:00.000Z",
+                  "end": "2017-03-18T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 47000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5WFd4N09zbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-21T08:30:00.000Z",
+                "end": "2017-03-21T08:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.2
+                },
+                "dateRange": {
+                  "start": "2017-04-19T12:30:00.000Z",
+                  "end": "2017-04-19T12:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.5717341,
+                    "lon": 3.0342674999999417
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 11400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5ZmZQanRpeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-27T03:30:00.000Z",
+                "end": "2017-03-27T03:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-06T04:30:00.000Z",
+                  "end": "2017-04-06T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 15900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKemY2TFRqZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-20T04:30:00.000Z",
+                "end": "2017-03-20T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 47.2174874,
+                  "lon": -1.5419504999999845
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-03-31T04:00:00.000Z",
+                  "end": "2017-03-31T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.8324929,
+                    "lon": 4.366232099999934
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 20200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxNWl3bWcyeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-03T04:30:00.000Z",
+                "end": "2017-04-03T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 7.6
+                },
+                "dateRange": {
+                  "start": "2017-04-12T04:30:00.000Z",
+                  "end": "2017-04-12T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 29700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhrLUhsdVoyZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-12T21:30:00.000Z",
+                "end": "2017-04-12T21:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8557371,
+                  "lon": 2.3277799999999615
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-21T13:30:00.000Z",
+                  "end": "2017-04-21T13:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.75080750000001,
+                    "lon": 2.2525521000000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKTDZaamZoZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-04T09:00:00.000Z",
+                "end": "2017-04-04T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-05T08:00:00.000Z",
+                  "end": "2017-04-05T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5RElKb29oZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-12T14:00:00.000Z",
+                "end": "2017-04-12T14:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-19T12:00:00.000Z",
+                  "end": "2017-04-19T12:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5TkQwMDNuZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-24T10:00:00.000Z",
+                "end": "2017-05-24T10:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-30T14:00:00.000Z",
+                  "end": "2017-05-30T14:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 26500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKR0xMMU5UbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-10T09:00:00.000Z",
+                "end": "2017-05-10T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-12T12:00:00.000Z",
+                  "end": "2017-05-12T12:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 15300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKSlU0WUQwZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-04T04:00:00.000Z",
+                "end": "2017-05-04T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.9412151,
+                  "lon": 2.497071099999971
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": "2017-05-12T12:00:00.000Z",
+                  "end": "2017-05-12T12:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 92500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJraFpCUnBSeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-19T05:00:00.000Z",
+                "end": "2017-05-19T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.35
+                },
+                "dateRange": {
+                  "start": "2017-06-14T11:00:00.000Z",
+                  "end": "2017-06-14T11:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.226472,
+                    "lon": 5.8087639999999965
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 44500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrR3AxRGhiYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-12T09:00:00.000Z",
+                "end": "2017-06-12T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-19T08:00:00.000Z",
+                  "end": "2017-06-19T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 4504
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlN5TU1sb2ZmYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-09T07:00:00.000Z",
+                "end": "2017-06-09T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.4
+                },
+                "dateRange": {
+                  "start": "2017-06-16T06:00:00.000Z",
+                  "end": "2017-06-16T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 26600
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5cFkzY245bA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-08T06:30:00.000Z",
+                "end": "2017-03-08T06:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-03-10T07:30:00.000Z",
+                  "end": "2017-03-10T07:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 74500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKV0pJT0NmYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-14T07:00:00.000Z",
+                "end": "2017-06-14T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 51.1909793,
+                  "lon": 4.392755299999976
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": "2017-06-14T07:00:00.000Z",
+                  "end": "2017-06-14T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4831519,
+                    "lon": -1.5586260000000038
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 129800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnIxZ1pBUklUTWI=",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-23T07:00:00.000Z",
+                "end": "2017-06-23T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-29T07:00:00.000Z",
+                  "end": "2017-06-29T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.3058991,
+                    "lon": 5.372647599999937
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJKZTFfZW1ibVc=",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-19T04:00:00.000Z",
+                "end": "2017-06-19T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-26T04:00:00.000Z",
+                  "end": "2017-06-26T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 27800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrV0ozS1ljZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-15T05:00:00.000Z",
+                "end": "2017-03-15T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-29T05:00:00.000Z",
+                  "end": "2017-03-29T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.5717341,
+                    "lon": 3.0342674999999417
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 21700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxYWYtanFjeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-11T06:00:00.000Z",
+                "end": "2017-04-11T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-04-20T07:00:00.000Z",
+                  "end": "2017-04-20T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 21300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhrVkZ2OTk1ZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-09T08:00:00.000Z",
+                "end": "2017-03-09T08:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-03-10T11:00:00.000Z",
+                  "end": "2017-03-10T11:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 20300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKdm9LNjU5Zw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-23T11:00:00.000Z",
+                "end": "2017-03-23T11:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-04-19T04:00:00.000Z",
+                  "end": "2017-04-19T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 43200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5SFdpTm45bA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-15T05:00:00.000Z",
+                "end": "2017-03-15T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-22T07:00:00.000Z",
+                  "end": "2017-03-22T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.2962089,
+                    "lon": 5.373538899999971
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 52700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5X2RYZ2tvZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-14T04:30:00.000Z",
+                "end": "2017-03-14T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-22T04:30:00.000Z",
+                  "end": "2017-03-22T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 64500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJrZDN2UXlqZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-14T04:30:00.000Z",
+                "end": "2017-03-14T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.2
+                },
+                "dateRange": {
+                  "start": "2017-03-18T05:00:00.000Z",
+                  "end": "2017-03-18T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 22600
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5QVpSZjFqZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-15T05:00:00.000Z",
+                "end": "2017-03-15T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-30T04:30:00.000Z",
+                  "end": "2017-03-30T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 52900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrT1RqeGVpZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-23T06:00:00.000Z",
+                "end": "2017-03-23T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-04-20T04:00:00.000Z",
+                  "end": "2017-04-20T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 16700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrck83NVJzZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-23T07:00:00.000Z",
+                "end": "2017-03-23T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-03-24T04:30:00.000Z",
+                  "end": "2017-03-24T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.9299207,
+                    "lon": 2.2950599000000693
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 13000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNrTWdwdi1uZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-12T09:00:00.000Z",
+                "end": "2017-04-12T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-28T12:00:00.000Z",
+                  "end": "2017-04-28T12:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.7505681,
+                    "lon": 2.2527202999999645
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKYlA5ZFcyZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-18T03:30:00.000Z",
+                "end": "2017-04-18T03:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-20T04:30:00.000Z",
+                  "end": "2017-04-20T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 18500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxQ3ZFZFdoZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-03T20:30:00.000Z",
+                "end": "2017-04-03T20:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8761318,
+                  "lon": 2.303769299999999
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-13T04:30:00.000Z",
+                  "end": "2017-04-13T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.75080750000001,
+                    "lon": 2.2525521000000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxcFllZ0YzbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-30T07:00:00.000Z",
+                "end": "2017-03-30T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-04-06T15:00:00.000Z",
+                  "end": "2017-04-06T15:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 37000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKU2g4aDVueA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-18T11:00:00.000Z",
+                "end": "2017-04-18T11:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-21T19:00:00.000Z",
+                  "end": "2017-04-21T19:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.7927012,
+                    "lon": 7.99457289999998
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14600
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKajNIeVkzZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-03T14:00:00.000Z",
+                "end": "2017-04-03T14:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-06T13:00:00.000Z",
+                  "end": "2017-04-06T13:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrOEhnMUkxWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-03T07:00:00.000Z",
+                "end": "2017-05-03T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": "2017-05-12T07:00:00.000Z",
+                  "end": "2017-05-12T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.3649321,
+                    "lon": 5.425375700000018
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 91400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJrNTFwa3FKVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-16T06:00:00.000Z",
+                "end": "2017-05-16T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-29T06:00:00.000Z",
+                  "end": "2017-05-29T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 12200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKcENqbHl4Wg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-15T07:00:00.000Z",
+                "end": "2017-05-15T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.0724737,
+                  "lon": 7.346900600000026
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-22T08:00:00.000Z",
+                  "end": "2017-05-22T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 44.8334469,
+                    "lon": -0.5727719000000207
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 16927
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxc2hfM2d4LQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-18T09:00:00.000Z",
+                "end": "2017-05-18T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.226472,
+                  "lon": 5.8087639999999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.45
+                },
+                "dateRange": {
+                  "start": "2017-05-27T11:00:00.000Z",
+                  "end": "2017-05-27T11:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.858444,
+                    "lon": 2.3500735000000077
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 24000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhraHJFUmV4LQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-15T06:00:00.000Z",
+                "end": "2017-05-15T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-22T06:00:00.000Z",
+                  "end": "2017-05-22T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 27400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJrdjA2RTdnVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-18T07:00:00.000Z",
+                "end": "2017-05-18T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-19T08:00:00.000Z",
+                  "end": "2017-05-19T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.5717341,
+                    "lon": 3.0342674999999417
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxbFVrQ0Z4Vw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-22T05:00:00.000Z",
+                "end": "2017-05-22T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 2.4
+                },
+                "dateRange": {
+                  "start": "2017-05-26T05:00:00.000Z",
+                  "end": "2017-05-26T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 28400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrM1FLQXFlLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-22T06:00:00.000Z",
+                "end": "2017-05-22T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-01T06:00:00.000Z",
+                  "end": "2017-06-01T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.86830750000001,
+                    "lon": 2.352089699999965
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 11000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5MkNoTW5nYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-29T07:20:56.107Z",
+                "end": "2017-05-29T07:20:56.107Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-08T07:20:56.107Z",
+                  "end": "2017-06-08T07:20:56.107Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 24200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxblpjMk1aVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-01T12:00:00.000Z",
+                "end": "2017-06-01T12:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.63315249999999,
+                  "lon": 3.0593412000000626
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": "2017-06-01T14:00:00.000Z",
+                  "end": "2017-06-01T14:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.5740698,
+                    "lon": 7.761825799999997
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 76100
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNrY3l0bzYtVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-05T05:00:00.000Z",
+                "end": "2017-06-05T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.61929199999999,
+                  "lon": 3.0744660000000295
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 8
+                },
+                "dateRange": {
+                  "start": "2017-06-06T05:00:00.000Z",
+                  "end": "2017-06-06T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.5392337,
+                    "lon": 2.6626092999999855
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 34700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKWUVWdTNiVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-08T07:00:00.000Z",
+                "end": "2017-06-08T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 2.4
+                },
+                "dateRange": {
+                  "start": "2017-06-12T07:00:00.000Z",
+                  "end": "2017-06-12T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 40100
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJra3kyWTRNWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-22T07:00:00.000Z",
+                "end": "2017-06-22T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8586975,
+                  "lon": 2.347123799999963
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-06-29T06:00:00.000Z",
+                  "end": "2017-06-29T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 51.51536889999999,
+                    "lon": -0.14109189999999217
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 60000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxX0tJVkhNWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-17T08:17:04.088Z",
+                "end": "2017-06-17T08:17:04.088Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-27T08:17:04.088Z",
+                  "end": "2017-06-27T08:17:04.088Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 21800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhrakRwSkRmVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-09T07:00:00.000Z",
+                "end": "2017-06-09T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.342
+                },
+                "dateRange": {
+                  "start": "2017-06-14T08:00:00.000Z",
+                  "end": "2017-06-14T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 31400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKV0ZGS0JmYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-09T07:00:00.000Z",
+                "end": "2017-06-09T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-15T07:00:00.000Z",
+                  "end": "2017-06-15T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 6912
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5Nko5anFaWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-19T07:00:00.000Z",
+                "end": "2017-06-19T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-26T08:00:00.000Z",
+                  "end": "2017-06-26T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8759027,
+                    "lon": 2.303402199999937
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 11000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5eTc0bWxoeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-13T04:00:00.000Z",
+                "end": "2017-04-13T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 7.016
+                },
+                "dateRange": {
+                  "start": "2017-04-15T13:30:00.000Z",
+                  "end": "2017-04-15T13:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 81300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5bEV4UzJmVw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-15T08:00:00.000Z",
+                "end": "2017-06-15T08:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-17T06:00:00.000Z",
+                  "end": "2017-06-17T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 8500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJKMG4xSlUxLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-09T04:00:00.000Z",
+                "end": "2017-05-09T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 47.2174874,
+                  "lon": -1.5419504999999845
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-17T06:00:00.000Z",
+                  "end": "2017-05-17T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8410203,
+                    "lon": 2.3203779000000395
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 10000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5Y0RnanRsYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-25T07:00:00.000Z",
+                "end": "2017-05-25T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.0724737,
+                  "lon": 7.346900600000026
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-25T08:00:00.000Z",
+                  "end": "2017-05-25T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14818
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlMxUi05NXFxbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-15T07:30:00.000Z",
+                "end": "2017-03-15T07:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 6.521
+                },
+                "dateRange": {
+                  "start": "2017-03-18T07:30:00.000Z",
+                  "end": "2017-03-18T07:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 55300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJrSzZfamM1Zw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-08T04:30:00.000Z",
+                "end": "2017-03-08T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 3.358
+                },
+                "dateRange": {
+                  "start": "2017-03-13T08:00:00.000Z",
+                  "end": "2017-03-13T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 35000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKMm0xaGNxeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-09T04:30:00.000Z",
+                "end": "2017-03-09T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": null,
+                  "end": null
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 78000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxU1RGLTJjZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-08T04:30:00.000Z",
+                "end": "2017-03-08T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 12.9
+                },
+                "dateRange": {
+                  "start": "2017-03-08T04:30:00.000Z",
+                  "end": "2017-03-08T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8742446,
+                    "lon": 2.3921516999999994
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKdy1rc2g5ZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-09T14:00:00.000Z",
+                "end": "2017-03-09T14:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4
+                },
+                "dateRange": {
+                  "start": "2017-03-10T13:00:00.000Z",
+                  "end": "2017-03-10T13:00:00.000Z"
+                },
+                "address": {
+                  "location": null
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 57900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJKZjBiLWtzZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-14T04:30:00.000Z",
+                "end": "2017-03-14T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-23T08:00:00.000Z",
+                  "end": "2017-03-23T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 18700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJrVWdtMUpvZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-11T04:00:00.000Z",
+                "end": "2017-03-11T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86970059999999,
+                  "lon": 2.30790879999995
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 12
+                },
+                "dateRange": {
+                  "start": "2017-03-13T13:00:00.000Z",
+                  "end": "2017-03-13T13:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 45.7488979,
+                    "lon": 4.877856999999949
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 54400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJKR05HMUpzbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-24T04:30:00.000Z",
+                "end": "2017-03-24T04:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 45.7469802,
+                  "lon": 4.867152900000065
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 5
+                },
+                "dateRange": {
+                  "start": "2017-04-11T04:30:00.000Z",
+                  "end": "2017-04-11T04:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 31500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxX1o4MWVvZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-20T05:30:00.000Z",
+                "end": "2017-03-20T05:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-03-30T05:00:00.000Z",
+                  "end": "2017-03-30T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 48600
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlMxWXItSmxzZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-15T05:30:00.000Z",
+                "end": "2017-03-15T05:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.0724737,
+                  "lon": 7.346900600000026
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-03-22T06:00:00.000Z",
+                  "end": "2017-03-22T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 12900
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKSDZXMElzeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-16T06:00:00.000Z",
+                "end": "2017-03-16T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-03-20T10:30:00.000Z",
+                  "end": "2017-03-20T10:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrT2kwQ1JqZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-19T06:00:00.000Z",
+                "end": "2017-04-19T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 4.8
+                },
+                "dateRange": {
+                  "start": "2017-04-25T03:30:00.000Z",
+                  "end": "2017-04-25T03:30:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.7927012,
+                    "lon": 7.99457289999998
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 37400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKUmNDbHgyZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-03T08:30:00.000Z",
+                "end": "2017-04-03T08:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-13T05:00:00.000Z",
+                  "end": "2017-04-13T05:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 7560
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxUmZoWGxubA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-13T07:30:00.000Z",
+                "end": "2017-04-13T07:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-21T07:00:00.000Z",
+                  "end": "2017-04-21T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 14400
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKX1FadWZueA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-11T07:30:00.000Z",
+                "end": "2017-04-11T07:30:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-21T13:00:00.000Z",
+                  "end": "2017-04-21T13:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5c3FJaEczeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-10T09:00:00.000Z",
+                "end": "2017-04-10T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.0724737,
+                  "lon": 7.346900600000026
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-21T08:00:00.000Z",
+                  "end": "2017-04-21T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 5696
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKbXhXZ1loZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-03-30T13:00:00.000Z",
+                "end": "2017-03-30T13:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 8
+                },
+                "dateRange": {
+                  "start": "2017-04-13T13:00:00.000Z",
+                  "end": "2017-04-13T13:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnIxYWZmUnNobA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-12T18:00:00.000Z",
+                "end": "2017-04-12T18:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-04-14T13:00:00.000Z",
+                  "end": "2017-04-14T13:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 18800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxSHZRYjMyeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-03T04:00:00.000Z",
+                "end": "2017-04-03T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 45.74672210000001,
+                  "lon": 4.867835099999979
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 13.2
+                },
+                "dateRange": {
+                  "start": "2017-04-07T06:00:00.000Z",
+                  "end": "2017-04-07T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.834999,
+                    "lon": 4.332639999999969
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 57100
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5UWhMU3pUbA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-04-26T05:00:00.000Z",
+                "end": "2017-04-26T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.6130169,
+                  "lon": 2.548040300000025
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 2.3
+                },
+                "dateRange": {
+                  "start": "2017-04-28T06:00:00.000Z",
+                  "end": "2017-04-28T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 51.5268812,
+                    "lon": -0.1315677999999707
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 52000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKWVQ2SUdhZw==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-07-20T10:00:00.000Z",
+                "end": "2017-07-20T10:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8427923,
+                  "lon": 2.238530800000035
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 2.183
+                },
+                "dateRange": {
+                  "start": "2017-07-21T12:00:00.000Z",
+                  "end": "2017-07-21T12:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.5342103,
+                    "lon": 5.441892100000018
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 33500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlMxSUNVazRUeA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-08T05:00:00.000Z",
+                "end": "2017-05-08T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.0724737,
+                  "lon": 7.346900600000026
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 8.8
+                },
+                "dateRange": {
+                  "start": "2017-05-18T04:00:00.000Z",
+                  "end": "2017-05-18T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 52600
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxeXhYWnA2eA==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-03T04:00:00.000Z",
+                "end": "2017-05-03T04:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-11T07:00:00.000Z",
+                  "end": "2017-05-11T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.4855627,
+                    "lon": 5.385825199999999
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 27100
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJrOU9zU2xlWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-15T06:00:00.000Z",
+                "end": "2017-05-15T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-22T06:00:00.000Z",
+                  "end": "2017-05-22T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 11000
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxLWV4d2d4Wg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-10T06:00:00.000Z",
+                "end": "2017-05-10T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-15T07:00:00.000Z",
+                  "end": "2017-05-15T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 19700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKVEFPRzA2ZQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-06T05:00:00.000Z",
+                "end": "2017-05-06T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 45.76092619999999,
+                  "lon": 4.844143499999973
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-17T04:00:00.000Z",
+                  "end": "2017-05-17T04:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.5982333,
+                    "lon": 1.450653999999986
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 6080
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKV1F6d2dnLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-15T06:00:00.000Z",
+                "end": "2017-05-15T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1
+                },
+                "dateRange": {
+                  "start": "2017-05-22T06:00:00.000Z",
+                  "end": "2017-05-22T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 7200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKcXVPdWdsLQ==",
+            "pickup": {
+              "dateRange": null,
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": null,
+                "address": {
+                  "location": {
+                    "lat": 50.5717341,
+                    "lon": 3.0342674999999417
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 6784
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnIxelZhSG1nYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-18T07:00:00.000Z",
+                "end": "2017-05-18T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-26T08:00:00.000Z",
+                  "end": "2017-05-26T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 6144
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNrZ0lJSjVkZVc=",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-18T08:00:00.000Z",
+                "end": "2017-05-18T08:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-05-19T07:00:00.000Z",
+                  "end": "2017-05-19T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 4504
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJKX3d2anRnLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-22T06:00:00.000Z",
+                "end": "2017-05-22T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.4855627,
+                  "lon": 5.385825199999999
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.6
+                },
+                "dateRange": {
+                  "start": "2017-05-23T09:00:00.000Z",
+                  "end": "2017-05-23T09:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 27100
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxOFJEMW94Yg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-22T06:00:00.000Z",
+                "end": "2017-05-22T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 41.8978678,
+                  "lon": 12.499406000000022
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-01T08:00:00.000Z",
+                  "end": "2017-06-01T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 33700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkh5Y3RZdTN4LQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-05-24T06:00:00.000Z",
+                "end": "2017-05-24T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.30327939999999,
+                  "lon": 5.380141999999978
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-05-26T07:00:00.000Z",
+                  "end": "2017-05-26T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 50.5717341,
+                    "lon": 3.0342674999999417
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17300
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkgxaWR3VHFaWg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-13T06:00:00.000Z",
+                "end": "2017-06-13T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-21T08:00:00.000Z",
+                  "end": "2017-06-21T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 4504
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOnJ5V21zRk56Wg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-23T07:00:00.000Z",
+                "end": "2017-06-23T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8759027,
+                  "lon": 2.303402199999937
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-23T06:00:00.000Z",
+                  "end": "2017-06-23T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.1026886,
+                    "lon": 11.643569200000002
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkIxRzJYS016Wg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-15T07:09:30.250Z",
+                "end": "2017-06-15T07:09:30.250Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-25T07:09:30.250Z",
+                  "end": "2017-06-25T07:09:30.250Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 21800
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNrZVFsVGNJTS0=",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-22T09:00:00.000Z",
+                "end": "2017-06-22T09:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 41.3985302,
+                  "lon": 2.1512232999999696
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 5
+                },
+                "dateRange": {
+                  "start": "2017-07-12T09:00:00.000Z",
+                  "end": "2017-07-12T09:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 72500
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlNKXzFRUml6Wg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-12T06:00:00.000Z",
+                "end": "2017-06-12T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.86830750000001,
+                  "lon": 2.352089699999965
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-19T06:00:00.000Z",
+                  "end": "2017-06-19T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.8809481,
+                    "lon": 2.3553137000000106
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 7200
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJKS3IzaEstLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-12T07:00:00.000Z",
+                "end": "2017-06-12T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.4
+                },
+                "dateRange": {
+                  "start": "2017-06-13T08:00:00.000Z",
+                  "end": "2017-06-13T08:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.0724737,
+                    "lon": 7.346900600000026
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 6397
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOlMxX3hOanBmLQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-14T06:00:00.000Z",
+                "end": "2017-06-14T06:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 48.8809481,
+                  "lon": 2.3553137000000106
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-15T06:00:00.000Z",
+                  "end": "2017-06-15T06:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 43.30327939999999,
+                    "lon": 5.380141999999978
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 17700
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkhKTnI4cm5mYg==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-14T07:00:00.000Z",
+                "end": "2017-06-14T07:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 50.5717341,
+                  "lon": 3.0342674999999417
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 0.8
+                },
+                "dateRange": {
+                  "start": "2017-06-16T07:00:00.000Z",
+                  "end": "2017-06-16T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 48.87296,
+                    "lon": 2.7130160000000387
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 9282
+              }
+            },
+            "carrier": null
+          }
+        },
+        {
+          "node": {
+            "id": "b2ZyOkJ5UFptdVc3LQ==",
+            "pickup": {
+              "dateRange": {
+                "start": "2017-06-17T05:00:00.000Z",
+                "end": "2017-06-17T05:00:00.000Z"
+              },
+              "address": {
+                "location": {
+                  "lat": 43.4855627,
+                  "lon": 5.385825199999999
+                }
+              }
+            },
+            "shipments": [
+              {
+                "cargo": {
+                  "totalLoadingMeter": 1.6
+                },
+                "dateRange": {
+                  "start": "2017-06-23T07:00:00.000Z",
+                  "end": "2017-06-23T07:00:00.000Z"
+                },
+                "address": {
+                  "location": {
+                    "lat": 51.5163586,
+                    "lon": -0.1331447999999682
+                  }
+                }
+              }
+            ],
+            "pricing": {
+              "result": {
+                "carrierPrice": 75800
+              }
+            },
+            "carrier": null
+          }
+        }
+      ]
+    }
+  }
+}

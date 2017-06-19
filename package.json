@@ -1,0 +1,34 @@
+{
+  "name": "beltane",
+  "version": "1.0.0",
+  "description": "One of the sisters, the one that bring the light and the warmth",
+  "main": "index.js",
+  "scripts": {
+    "start": "./.bin/beltane",
+    "build": "gulp"
+  },
+  "bin": {
+    "beltane": "./.bin/beltane"
+  },
+  "author": "Jean-cédric Thérond <jean.cedric.t@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "abab": "^1.0.3",
+    "neataptic": "^1.2.27"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-decorators": "^6.24.1",
+    "babel-plugin-transform-export-extensions": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.3.0"
+  }
+}
